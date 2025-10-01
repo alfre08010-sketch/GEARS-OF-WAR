@@ -5,7 +5,6 @@ Gears of War es un videojuego de disparos en tercera persona, del género acció
 <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <link rel="stylesheet" href="styles.css">
 </head>
 <body>
  <header>
@@ -13,7 +12,6 @@ Gears of War es un videojuego de disparos en tercera persona, del género acció
  <nav>
  <ul>
  <li><a href="                        
- <li><a href="#juegos">Juegos</a></li>
  <li><a href="                                
  </ul>
  </nav>
