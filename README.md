@@ -60,8 +60,13 @@ Comienza con Delta regresando a Azura para lanzar los satélites Hammer mientras
  <h2>Personajes principales</h2>
  <ul>
  <li>Marcus Fenix</li>
+  Marcus Michael Fenix, líder del pelotón Delta e hijo del conocido científico militar Adam Fenix, es un soldado decidido e ingenioso que no ve sus actos como algo heroico, sino como una simple necesidad. Antes de su condena, Marcus era un soldado condecorado y un gran líder. Ahora, este héroe caído podría ser la última esperanza de la supervivencia de la humanidad.
  <li>Dominic Santiago</li>
- <li>Kait Diaz</li>
+  Dominic "Dom" Santiago, Soldado Comando de las Fuerzas Armadas de la Coalición de Gobiernos Ordenados. Fue un duro guerrero que poseyó una actitud positiva incluso en los peores momentos. Liberó a su mejor amigo, Marcus Fenix, de la Cárcel de Máxima Seguridad de Jacinto y lo reclutó para el pelotón Delta. Luego de perder todo por lo que luchaba, Dom se descuidó mucho, participó durante la Pandemia Lambent y se sacrificó para salvar a Delta en la Misión a Mercy.
+ <li>Damon baird</li>
+  El Cabo Damon S. Baird, anteriormente Teniente, fue un soldado Gear, genio en varios campos técnicos, mecánicos y científicos. Es experto en recolectar, analizar y descifrar tanto armas Locust, como otros tipos de equipos, artefactos y documentos, también se destaca por ser un gran ingeniero, creando distintos artefactos y reparando maquinaria avanzada de la CGO.
+ <li>Augustus Cole</li>
+  Augustus "El Tren" Cole, soldado especialista de las Fuerzas Armadas de la Coalición de Gobiernos Ordenados, fue un exitoso jugador de Thrashball conocido por su extravagante y contundente estilo. Después del Día de la Emergencia, Cole se unió al Ejército CGO como un Gear donde se le conoce por su encantador carácter. Cole ha pasado la mayor parte de su carrera militar junto a su amigo, Damon Baird, con el que comenzó esta nueva etapa en su vida. A lo largo de su carrera como Gear, ha rechazado múltiples ascensos, argumentando que eso afectaría la cantidad de Locust que podría matar. Como parte de Delta-Uno, Cole se convirtió en uno de los mejores soldados de la CGO, luchando en grandes y decisivas batallas de la Guerra Locust. Entabló una amistad con Bernadette Mataki, y continuó luchando por la CGO durante el traslado a Vectes, la lucha contra los Supervivientes y la Pandemia Lambent.
  </ul>
  </section>
  </main>
